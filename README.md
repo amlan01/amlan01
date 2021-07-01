@@ -8,8 +8,6 @@
 
 :mailbox_with_no_mail: Reach me @ [LinkedIn](https://in.linkedin.com/in/amlansaikia)
 
-![Image of daftpunktocat-thomas] (https://octodex.github.com/images/daftpunktocat-thomas.gif)
-
 <!--
 **amlan01/amlan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
