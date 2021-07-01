@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hello everyone, I'm Amlan Saikia 👋
+
+![Image of Hubot](https://octodex.github.com/images/hubot.jpg)
+
+:factory_worker: I get to work on remote sensing data, machine learning problem and GIS
+ 
+:telescope: Currently i'm exploring Google Earth Engine for land cover classification
+
+:mailbox_with_no_mail: Reach me @ [LinkedIn](https://in.linkedin.com/in/amlansaikia)
+
+![Image of daftpunktocat-thomas] (https://octodex.github.com/images/daftpunktocat-thomas.gif)
 
 <!--
 **amlan01/amlan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
