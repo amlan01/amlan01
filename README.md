@@ -2,9 +2,9 @@
 
 ![Image of Hubot](https://octodex.github.com/images/hubot.jpg)
 
-:factory_worker: I get to work on remote sensing data, machine learning problem and GIS
+🔭 I get to work on real-time sensor data, building data pipeline and building React based UI
  
-:telescope: Currently i'm exploring Google Earth Engine for land cover classification
+🌱 Currently i'm learning GIT Workflows
 
 :mailbox_with_no_mail: Reach me @ [LinkedIn](https://in.linkedin.com/in/amlansaikia)
 
