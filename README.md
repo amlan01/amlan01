@@ -4,7 +4,7 @@
 
 🔭 I get to work on real-time sensor data, building data pipeline and building React based UI
  
-🌱 Currently i'm learning GIT Workflows
+🌱 Currently i'm learning Event Handling & Components in React
 
 :mailbox_with_no_mail: Reach me @ [LinkedIn](https://in.linkedin.com/in/amlansaikia)
 
